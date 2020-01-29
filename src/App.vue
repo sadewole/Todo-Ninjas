@@ -20,3 +20,10 @@ export default {
   })
 };
 </script>
+
+<style>
+.theme--light.v-application {
+  background: #f5f5f5 !important;
+  border-color: #f5f5f5 !important;
+}
+</style>
